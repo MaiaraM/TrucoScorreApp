@@ -6,6 +6,6 @@ Contador de Pontuação de um Jogo Truco
  </p>
 
 
-#### Developer :star2:
+#### :star2: Developer 
  by Maiara Martins 
 
