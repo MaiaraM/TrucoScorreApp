@@ -1,5 +1,11 @@
-# TrucoScorreApp
-Aplicativo Android
+# TrucoScorreApp :diamonds:
 Contador de Pontuação de um Jogo Truco
 
-Desenvolvido por Maiara Martins
+<p align="center">
+       <image src="https://user-images.githubusercontent.com/40842310/46118473-117ae500-c1dd-11e8-884a-481c1e19d868.jpg"/>  
+ </p>
+
+
+#### Developer :star2:
+ by Maiara Martins 
+
